@@ -1,0 +1,1 @@
+select count(*) from UCREX_PM_1_7_04.AD_USER_IMPORTS;
